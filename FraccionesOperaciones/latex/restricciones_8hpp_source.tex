@@ -1,0 +1,43 @@
+\doxysection{restricciones.\+hpp}
+\hypertarget{restricciones_8hpp_source}{}\label{restricciones_8hpp_source}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{00001\ \textcolor{preprocessor}{\#include\ <iostream>}}
+\DoxyCodeLine{00002\ \textcolor{preprocessor}{\#include\ <limits>}}
+\DoxyCodeLine{00003\ }
+\DoxyCodeLine{00004\ \textcolor{keyword}{using\ namespace\ }std;}
+\DoxyCodeLine{00005\ }
+\DoxyCodeLine{00006\ \textcolor{keywordtype}{int}\ obtenerNumero()}
+\DoxyCodeLine{00007\ \{}
+\DoxyCodeLine{00008\ \ \ \ \ \textcolor{keywordtype}{int}\ numero;}
+\DoxyCodeLine{00009\ \ \ \ \ cout\ <<\ \textcolor{stringliteral}{"{}Ingrese\ un\ numero\ :\ "{}};}
+\DoxyCodeLine{00010\ \ \ \ \ \textcolor{keywordflow}{while}\ (!(cin\ >>\ numero))}
+\DoxyCodeLine{00011\ \ \ \ \ \{}
+\DoxyCodeLine{00012\ \ \ \ \ \ \ \ \ cout\ <<\ \textcolor{stringliteral}{"{}Entrada\ inválida.\ Por\ favor,\ ingrese\ un\ numero:\ "{}};}
+\DoxyCodeLine{00013\ \ \ \ \ \ \ \ \ cin.clear();}
+\DoxyCodeLine{00014\ \ \ \ \ \ \ \ \ cin.ignore(numeric\_limits<streamsize>::max(),\ \textcolor{charliteral}{'\(\backslash\)n'});}
+\DoxyCodeLine{00015\ \ \ \ \ \}}
+\DoxyCodeLine{00016\ }
+\DoxyCodeLine{00017\ \ \ \ \ \textcolor{keywordflow}{return}\ numero;}
+\DoxyCodeLine{00018\ \}}
+\DoxyCodeLine{00019\ }
+\DoxyCodeLine{00020\ \textcolor{keywordtype}{int}\ diferenteDeCero()}
+\DoxyCodeLine{00021\ \{}
+\DoxyCodeLine{00022\ \ \ \ \ \textcolor{keywordtype}{int}\ denominador;}
+\DoxyCodeLine{00023\ \ \ \ \ \textcolor{keywordflow}{do}}
+\DoxyCodeLine{00024\ \ \ \ \ \{}
+\DoxyCodeLine{00025\ \ \ \ \ \ \ \ \ cout\ <<\ \textcolor{stringliteral}{"{}Ingrese\ un\ numero\ diferente\ de\ 0:\ "{}};}
+\DoxyCodeLine{00026\ \ \ \ \ \ \ \ \ \textcolor{keywordflow}{while}\ (!(cin\ >>\ denominador))}
+\DoxyCodeLine{00027\ \ \ \ \ \ \ \ \ \{}
+\DoxyCodeLine{00028\ \ \ \ \ \ \ \ \ \ \ \ \ cout\ <<\ \textcolor{stringliteral}{"{}Entrada\ inválida.\ Por\ favor,\ ingrese\ un\ numero:\ "{}};}
+\DoxyCodeLine{00029\ \ \ \ \ \ \ \ \ \ \ \ \ cin.clear();}
+\DoxyCodeLine{00030\ \ \ \ \ \ \ \ \ \ \ \ \ cin.ignore(numeric\_limits<streamsize>::max(),\ \textcolor{charliteral}{'\(\backslash\)n'});}
+\DoxyCodeLine{00031\ \ \ \ \ \ \ \ \ \}}
+\DoxyCodeLine{00032\ \ \ \ \ \ \ \ \ \textcolor{keywordflow}{if}\ (denominador\ ==\ 0)}
+\DoxyCodeLine{00033\ \ \ \ \ \ \ \ \ \{}
+\DoxyCodeLine{00034\ \ \ \ \ \ \ \ \ \ \ \ \ cout\ <<\ \textcolor{stringliteral}{"{}Entrada\ inválida.\ Por\ favor,\ ingrese\ un\ numero\ diferente\ de\ 0:\ "{}}\ <<\ endl;}
+\DoxyCodeLine{00035\ \ \ \ \ \ \ \ \ \}}
+\DoxyCodeLine{00036\ \ \ \ \ \}\ \textcolor{keywordflow}{while}\ (denominador\ ==\ 0);}
+\DoxyCodeLine{00037\ \ \ \ \ \textcolor{keywordflow}{return}\ denominador;}
+\DoxyCodeLine{00038\ \}}
+
+\end{DoxyCode}
