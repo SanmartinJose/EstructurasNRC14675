@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1708319560 source:c:\users\user\documents\espe\semestre 2023 2\estructuras\diccionario\main.cpp
+	<iostream>
+	"Diccionario.cpp"
+
+1708321414 c:\users\user\documents\espe\semestre 2023 2\estructuras\diccionario\diccionario.h
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+
+1708321781 c:\users\user\documents\espe\semestre 2023 2\estructuras\diccionario\diccionario.cpp
+	"Diccionario.h"
+

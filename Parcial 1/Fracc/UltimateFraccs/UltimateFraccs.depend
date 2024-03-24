@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1700070904 source:c:\users\user\documents\espe\semestre 2023 2\estructuras\fracc\model\fraccion.cpp
+	"Fraccion.h"
+
+1700070904 c:\users\user\documents\espe\semestre 2023 2\estructuras\fracc\model\fraccion.h
+
+1700193600 source:c:\users\user\documents\espe\semestre 2023 2\estructuras\fracc\model\main.cpp
+	"Fraccion.h"
+	"ValidationFraccion.h"
+	"OperacionesFraccion.h"
+	<iostream>
+
+1699823484 c:\users\user\documents\espe\semestre 2023 2\estructuras\fracc\model\validationfraccion.h
+	"Fraccion.h"
+
+1700193468 c:\users\user\documents\espe\semestre 2023 2\estructuras\fracc\model\operacionesfraccion.h
+	"Fraccion.h"
+
+1699824726 source:c:\users\user\documents\espe\semestre 2023 2\estructuras\fracc\model\validateuserentrynumber.cpp
+
+1699823482 source:c:\users\user\documents\espe\semestre 2023 2\estructuras\fracc\model\validationfraccion.cpp
+	"ValidationFraccion.h"
+

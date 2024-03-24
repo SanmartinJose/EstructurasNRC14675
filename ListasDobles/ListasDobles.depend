@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1701878465 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\listasdobles\main.cpp
+	<iostream>
+	"ListasDobles.h"
+	"validaciones.h"
+
+1701841015 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\listasdobles\nodo.cpp
+	"Nodo.h"
+
+1701842758 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\listasdobles\nodo.h
+
+1701878432 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\listasdobles\listasdobles.cpp
+	<iostream>
+	"ListasDobles.h"
+
+1701877832 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\listasdobles\listasdobles.h
+	"Nodo.h"
+
+1701843076 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\listasdobles\validaciones.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<cstring>
+

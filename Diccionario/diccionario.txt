@@ -1,0 +1,8 @@
+casa house
+gato cat
+hola hello
+margarita daysi
+perro dog
+tomar take
+beber drink
+	

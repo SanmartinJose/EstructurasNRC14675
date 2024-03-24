@@ -1,0 +1,10 @@
+Posicion inicial del rey: (3, 6)
+Tablero con movimientos posibles del rey:
+* * * * * * * * 
+* * * * * * * * 
+* * * * * r r r 
+* * * * * r R r 
+* * * * * r r r 
+* * * * * * * * 
+* * * * * * * * 
+* * * * * * * * 

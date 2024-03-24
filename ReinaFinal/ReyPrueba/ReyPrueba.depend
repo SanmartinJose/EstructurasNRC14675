@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1691151788 source:c:\users\cajh1\onedrive\documentos\espe\estructura de datos\reinafinal\ingresodatos.cpp
+	"IngresoDatos.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string>
+
+1708535614 c:\users\cajh1\onedrive\documentos\espe\estructura de datos\reinafinal\ingresodatos.h
+	<string>
+	<iostream>
+
+1708965992 source:c:\users\cajh1\onedrive\documentos\espe\estructura de datos\reinafinal\main.cpp
+	"Reina.h"
+	"IngresoDatos.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Tablero.h"
+	"ReyPrueba/Rey.h"
+
+1708535654 c:\users\cajh1\onedrive\documentos\espe\estructura de datos\reinafinal\reina.cpp
+	"Reina.h"
+	"time.h"
+
+1708535636 c:\users\cajh1\onedrive\documentos\espe\estructura de datos\reinafinal\reina.h
+	<iostream>
+	<fstream>
+
+1691151788 c:\users\cajh1\onedrive\documentos\espe\estructura de datos\reinafinal\ingresodatos.cpp
+	"IngresoDatos.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string>
+
+1708536445 c:\users\cajh1\onedrive\documentos\espe\estructura de datos\reinafinal\tablero.cpp
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	"Tablero.h"
+
+1691154854 c:\users\cajh1\onedrive\documentos\espe\estructura de datos\reinafinal\tablero.h
+	<fstream>
+	<iostream>
+
+1708966102 c:\users\cajh1\onedrive\documentos\espe\estructura de datos\reinafinal\reyprueba\rey.h
+
+1708535654 source:c:\users\cajh1\onedrive\documentos\espe\estructura de datos\reinafinal\reina.cpp
+	"Reina.h"
+	"time.h"
+
+1708536445 source:c:\users\cajh1\onedrive\documentos\espe\estructura de datos\reinafinal\tablero.cpp
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	"Tablero.h"
+
+1708966187 source:c:\users\cajh1\onedrive\documentos\espe\estructura de datos\reinafinal\reyprueba\rey.cpp
+	<iostream>
+	"Rey.h"
+	"Rey.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+

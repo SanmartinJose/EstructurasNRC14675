@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1709571536 source:c:\users\user\documents\espe\semestre 2023 2\estructuras\parcial 1\colasfinal\colas\main.cpp
+	<iostream>
+	"validaciones.h"
+	"Cola.cpp"
+
+1702611600 source:c:\users\user\documents\espe\semestre 2023 2\estructuras\parcial 1\colasfinal\colas\cola.cpp
+	"Cola.h"
+
+1709575017 c:\users\user\documents\espe\semestre 2023 2\estructuras\parcial 1\colasfinal\colas\cola.h
+	<iostream>
+	"Nodo.cpp"
+	"Cliente.h"
+
+1709574581 c:\users\user\documents\espe\semestre 2023 2\estructuras\parcial 1\colasfinal\colas\nodo.h
+	"Cliente.h"
+
+1702610303 c:\users\user\documents\espe\semestre 2023 2\estructuras\parcial 1\colasfinal\colas\validaciones.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<cstring>
+
+1709574690 c:\users\user\documents\espe\semestre 2023 2\estructuras\parcial 1\colasfinal\colas\cola.cpp
+	"Cola.h"
+	"Cliente.cpp"
+
+1709574510 c:\users\user\documents\espe\semestre 2023 2\estructuras\parcial 1\colasfinal\colas\nodo.cpp
+	"Cliente.h"
+	"Nodo.h"
+
+1709573367 c:\users\user\documents\espe\semestre 2023 2\estructuras\parcial 1\colasfinal\colas\cliente.h
+
+1709575572 c:\users\user\documents\espe\semestre 2023 2\estructuras\parcial 1\colasfinal\colas\cliente.cpp
+	"Cliente.h"
+
+1709574978 source:c:\users\user\documents\espe\semestre 2023 2\estructuras\parcial 1\colasfinal\colas\cliente.cpp
+	"cliente.h"
+

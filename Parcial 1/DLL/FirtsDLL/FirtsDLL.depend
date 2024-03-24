@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1700021515 source:c:\users\yeshu\dropbox\datastructure\powerdesigneruwu\dll\firtsdll\main.cpp
+	"main.h"
+	<iostream>
+	<cmath>
+
+1700021592 c:\users\yeshu\dropbox\datastructure\powerdesigneruwu\dll\firtsdll\main.h
+	<windows.h>
+

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1709708444 source:c:\users\user\documents\espe\semestre 2023 2\estructuras\testmodelosfinal\pruebafinalcolas\main.cpp
+	<iostream>
+	"validaciones.h"
+	"Colas.cpp"
+
+1709702256 c:\users\user\documents\espe\semestre 2023 2\estructuras\testmodelosfinal\pruebafinalcolas\validaciones.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<cstring>
+
+1709709563 c:\users\user\documents\espe\semestre 2023 2\estructuras\testmodelosfinal\pruebafinalcolas\colas.cpp
+	"Colas.h"
+	"Nodos.cpp"
+	"validaciones.h"
+	<random>
+	<iostream>
+
+1709708444 c:\users\user\documents\espe\semestre 2023 2\estructuras\testmodelosfinal\pruebafinalcolas\colas.h
+	<iostream>
+	"Nodo.h"
+
+1709702207 c:\users\user\documents\espe\semestre 2023 2\estructuras\testmodelosfinal\pruebafinalcolas\nodo.h
+
+1709702130 c:\users\user\documents\espe\semestre 2023 2\estructuras\testmodelosfinal\pruebafinalcolas\nodos.cpp
+	"Nodo.h"
+
